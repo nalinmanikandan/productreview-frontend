@@ -1,0 +1,8 @@
+.samdiv{
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-brand{
+  margin-left: 7%;
+}

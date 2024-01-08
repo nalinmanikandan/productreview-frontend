@@ -2,3 +2,10 @@
   display: flex;
   justify-content: space-evenly;
 }
+.btns button{
+  margin: 5px;
+}
+.custom-button {
+  width: 100px;
+  height: 40px;
+}
